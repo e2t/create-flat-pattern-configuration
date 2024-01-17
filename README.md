@@ -1,4 +1,6 @@
-﻿# CreateFlatPatternConfiguration
+This project has been moved to https://codeberg.org/e2t/create-flat-pattern-configuration
+ 
+ # CreateFlatPatternConfiguration
 Макрос для создания разверток SM-FLAT-PATTERN в листовых деталях SolidWorks.
 
 ### Зависимости
